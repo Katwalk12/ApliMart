@@ -1,0 +1,39 @@
+name: myapp
+description: "ApliMart - Your Appliance Marketplace"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  supabase_flutter: ^2.18.3
+  provider: ^6.1.2
+  cached_network_image: ^3.4.1
+  shimmer: ^3.0.0
+  badges: ^3.1.2
+  flutter_rating_bar: ^4.0.1
+  supabase: ^2.16.5
+  url_launcher: ^6.3.1
+  shared_preferences: ^2.3.2
+  image_picker: ^1.1.2
+  http: ^1.2.2
+  app_links: ^6.3.2
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/aplimart.png"
+

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1074134629833",
+    "firebase_url": "https://aplimart-cf77b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aplimart-cf77b",
+    "storage_bucket": "aplimart-cf77b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074134629833:android:84229f5730588eecd47c18",
+        "android_client_info": {
+          "package_name": "com.aplimart.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqbL-ydLH2taCS59ORQPs2MubaZrEatU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074134629833:android:0fb2e2a8f9d4902bd47c18",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrqbL-ydLH2taCS59ORQPs2MubaZrEatU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
